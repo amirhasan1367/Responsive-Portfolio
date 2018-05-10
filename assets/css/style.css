@@ -118,7 +118,7 @@ p, #contact-body-text {
     left:0px;
 }
 #box-tl{
-    background-image:url("../images/bio.jpeg");
+    background-image:url("../images/hangman.png");
     background-size: 230px 175px;
 }
 #box-tr{
@@ -137,7 +137,7 @@ p, #contact-body-text {
     background-image:url("../images/hobby.jpg");
     background-size: 230px 175px;
 }
-#bio, #personal, #career, #family, #hobby{
+#hangman, #personal, #career, #family, #hobby{
     width:230px;
     height:20px;
     padding: 15px 0 15px 0;
