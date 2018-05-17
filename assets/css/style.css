@@ -122,7 +122,7 @@ p, #contact-body-text {
     background-size: 230px 175px;
 }
 #box-tr{
-    background-image:url("../images/personal.jpg");
+    background-image:url("../images/crystal3.jpg");
     background-size: 230px 175px;
 }
 #box-ml{
@@ -147,18 +147,15 @@ p, #contact-body-text {
     background-color: #4aaaa5;
     text-align: center;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-#games{
     
-    height: 1500px;
-    background-color: #ffffff;
 }
+
 nav{
     float: right;
     padding: 30px 0 30px 30px;
     color:#eeeeee;
 }
-a{
+.navbar{
     text-decoration: none;
     border-right: 0.5px solid #cccccc;
     color: #777777;
@@ -167,6 +164,13 @@ a{
 #my-pic{
     width: 250px;
     height: 200px;
+}
+#games{
+    
+    height: 1500px;
+    background-color: #ffffff;
+    color: #eeeeee;
+    text-decoration: none;
 }
 /*media queries*/
 
