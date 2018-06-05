@@ -130,14 +130,14 @@ p, #contact-body-text {
     background-size: 230px 175px;
 }
 #box-mr{
-    background-image:url("../images/family.jpg");
+    background-image:url("../images/giphy.jpg");
     background-size: 230px 175px;
 }
 #box-bl{
     background-image:url("../images/hobby.jpg");
     background-size: 230px 175px;
 }
-#hangman, #crystals, #trivia, #family, #hobby{
+#hangman, #crystals, #trivia, #giphy, #hobby{
     width:230px;
     height:20px;
     padding: 15px 0 15px 0;
