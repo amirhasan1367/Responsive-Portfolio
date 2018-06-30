@@ -130,7 +130,7 @@ p, #contact-body-text {
     background-size: 230px 175px;
 }
 #box-mr{
-    background-image:url("../images/giphy.jpg");
+    background-image:url("../images/pantry.png");
     background-size: 230px 175px;
 }
 #box-bl{
@@ -171,6 +171,9 @@ nav{
     background-color: #ffffff;
     color: #eeeeee;
     text-decoration: none;
+}
+#logos{
+    float: right;
 }
 /*media queries*/
 
